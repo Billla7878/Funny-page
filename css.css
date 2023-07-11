@@ -1,0 +1,364 @@
+*{
+    margin: 0;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    border: border-box;
+    text-decoration: none;
+    border-radius: 0px;
+    color: black;
+
+    
+   
+    
+}
+
+.nav{
+    height: 58px;
+    width: 100%;
+    padding:0px ;
+    background-color: rgb(81, 197, 172);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+
+.logo{
+
+    height: 85%;
+    width: 100px;
+
+  
+    
+    
+}
+
+.logo1{
+    margin-left: 5%;
+    height: 93%;
+    width: 100%;
+    background-image: url('age.png');
+    background-size: cover;
+     
+     border-radius: 3px;
+
+   
+    
+}
+.ser{
+    height: 60%;
+    width: 60%;
+    display: flex;
+    align-items: center;
+}
+
+input{
+    width: 100%;
+    height: 100%;
+    /* border: 12px solod black; */
+    border-top-left-radius: 5px;
+    border-bottom-left-radius:5px ;
+    border: 0px;
+}
+
+#serlogo{
+    height: 2.3rem;
+    width: 34px;
+    font-size: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius:5px ;
+    
+}
+
+.option{
+    height: 1.8rem;
+    width: 33px;
+    margin-right: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+
+
+}
+
+/* /////////////////////////////////////////////////////? */
+
+.hero{
+    
+    height: 456px;
+    width: 100%;
+border-bottom: 15px solid transparent ;
+background-color: rgb(252, 227, 227);
+  
+    
+}
+.m{
+    height: 228px;
+    width: auto;
+ 
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.con{
+    height: 190px;
+    width: 140px;
+   margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+
+
+.bo{
+    height: 30%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+button{
+    height: 40%;
+    width: 75%;
+    border-radius: 5px;
+    background-color: rgb(32, 182, 32);
+    border: 2px solid transparent;
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px ;
+    
+}
+
+.contend1{
+   background-image: url('py.png');
+   background-size: cover;
+    height: 70%;
+    width: 100%;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+.contend2{
+    background-image: url('c.png');
+    background-size: cover;
+     height: 70%;
+     width: 100%;
+     border-top-left-radius: 6px;
+     border-top-right-radius: 6px;
+ }
+
+ .contend3{
+    background-image: url('cpp.png');
+    background-size: cover;
+     height: 70%;
+     width: 100%;
+     border-top-left-radius: 6px;
+     border-top-right-radius: 6px;
+ }
+ .contend4{
+    background-image: url('j.png');
+    background-size: cover;
+     height: 70%;
+     width: 100%;
+     border-top-left-radius: 6px;
+     border-top-right-radius: 6px;
+ }
+ .contend5{
+    background-image: url('js.png');
+    background-size: cover;
+     height: 70%;
+     width: 100%;
+     border-top-left-radius: 6px;
+     border-top-right-radius: 6px;
+ }
+ .contend6{
+    background-image: url('html.png');
+    background-size: cover;
+     height: 70%;
+     width: 100%;
+     border-top-left-radius: 6px;
+     border-top-right-radius: 6px;
+ }
+ .contend7{
+    background-image: url('css.png');
+    background-size: cover;
+     height: 70%;
+     width: 100%;
+     border-top-left-radius: 6px;
+     border-top-right-radius: 6px;
+ }
+ .contend8{
+    background-image: url('php.png');
+    background-size: cover;
+     height: 70%;
+     width: 100%;
+     border-top-left-radius: 6px;
+     border-top-right-radius: 6px;
+ }
+ .contend9{
+    background-image: url('cc.png');
+    background-size: cover;
+     height: 70%;
+     width: 100%;
+     border-top-left-radius: 6px;
+     border-top-right-radius: 6px;
+ }
+ .contend10{
+    background-image: url('go.png');
+    background-size: cover;
+     height: 70%;
+     width: 100%;
+     border-top-left-radius: 6px;
+     border-top-right-radius: 6px;
+ }
+ .contend11{
+    background-image: url('sw.png');
+    background-size: cover;
+     height: 70%;
+     width: 100%;
+     border-top-left-radius: 6px;
+     border-top-right-radius: 6px;
+ }
+ .contend12{
+    background-image: url('sql.png');
+    background-size: cover;
+     height: 70%;
+     width: 100%;
+     border-top-left-radius: 6px;
+     border-top-right-radius: 6px;
+ }
+ 
+ 
+
+ /* /////////////////////////////////// */
+.last{
+ 
+    margin-top: 5%;
+    height: 40px;
+    width: 100%;
+    background-color: rgb(2, 34, 61);
+}
+
+.infomation{
+    background-color: rgb(15, 9, 27);
+    height: 445px;
+    width: 100%;
+}
+h3{
+  color: rgb(168, 168, 168);
+}
+.topic{
+   height: 60px;
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.info{
+    display: flex;
+    justify-content: space-around;
+    height: 90%;
+    width: 80%;
+    margin-left: 12%;
+
+
+}
+.cont p{
+   width: 250px;
+}
+.cont p{
+    color: rgb(152, 145, 175);
+    margin-bottom: 7px;
+}
+.last1{
+    border-top: solid white 1px;
+    background-color: rgb(15, 9, 27);
+}
+
+ p:hover{
+    color: rgb(190, 113, 68);
+    font-size: 17px;
+
+    text-decoration: underline rgb(136, 53, 101) 3px;
+   
+
+    
+}
+
+.con5{
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    width: 74%;
+    margin-left: 15%;
+    
+    flex-wrap: wrap;
+}
+
+.con5 p{
+   margin-left: 5%;
+   color: rgb(158, 158, 158);
+   
+}
+h4{
+    line-height: 50px;
+    text-align: center;
+    font-size: 21px ;
+    color: rgb(209, 203, 195)
+}
+/* ////////////// */
+
+button:hover{
+    border: 2px solid rgb(96, 137, 224);
+    font-weight: 550;
+    border-radius: 3px;
+    border: 5px;
+
+}
+
+button:active{
+    border: 2px solid black;
+    font-weight: 550;
+    background-color: red;
+    border-radius: 3px;
+    color: white;
+    font-size: 15px ;
+    border: 5px;
+
+}
+
+
+.hover{
+    border: 2px solid transparent;
+border-radius: 3px;
+
+}
+
+.hover:hover{
+    border: 2px solid black;
+    border-radius: 3px;
+
+}
+
+.hover:active{
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 3px;
+
+}
+.contact{
+  background-color: rgb(7, 3, 34);
+   
+}
+h5{
+    text-align: center;
+    color: white;
+}
